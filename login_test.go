@@ -2,7 +2,7 @@ package login
 
 import (
 	"fmt"
-	"laChiquiTravel/support"
+	"seleniumGoTest/support"
 	"time"
 
 	"github.com/cucumber/godog"
